@@ -1,4 +1,4 @@
-# PENGELOLAAN DATA NILAI UJIAN SEKOLAH SISWA
+â# PENGELOLAAN DATA NILAI UJIAN SEKOLAH SISWA
 ## DESKRIPSI PROJECT
 
 SMAKESHA (Sekolah Menengah Kejuruan Star Harmoni) adalah sebuah institusi pendidikan yang berkomitmen untuk memberikan pendidikan berkualitas kepada para siswa. 
@@ -12,6 +12,8 @@ Dengan adanya sistem basis data yang canggih, sekolah akan dapat memantau perkem
 # FLOWCHART 
 ![image](https://github.com/PA-PBOxDBD/PA-PBO-DBD-KELOMPOK-24/assets/121924124/0fc262b3-9ab4-47e6-9e53-3a667da12011)
 
+flowchart dimulai dari user diminta untuk memilih menu login , terdapat 3 menu pilihan yaitu staff TU, siswa dan exit. Ketika user memilih menu staff TU maka user diminta untuk menginputkan nip dan password kemudian jika user salah menginputkan maka user diminta untuk menginput kan kembali, jika user berhasil login maka user akan ditampilkan menu tabel nilai yang berisi crud dari menu tersebut kemudian akan tersimpan didatabase.
+Kemudian jika pengguna memilih menu siswa maka pengguna diminta untuk menginputkan nis dan password, jika gagal maka pengguna akan diminta menginputkan kembali jika berhasil maka pengguna akan ditampilkan tabel nilai namun pengguna hanya bisa melihat tanpa bisa mengedit.
 
 
 # ERD
