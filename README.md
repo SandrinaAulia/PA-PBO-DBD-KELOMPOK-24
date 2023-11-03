@@ -10,13 +10,13 @@ Mereka menyadari bahwa mengelola data nilai siswa dengan cara manual mengalami b
 Dengan adanya sistem basis data yang canggih, sekolah akan dapat memantau perkembangan akademis siswa secara lebih baik, memudahkan perencanaan kurikulum, dan memungkinkan pengelolaan sumber daya manusia yang lebih efektif, sehingga sekolah dapat memberikan pendidikan berkualitas kepada siswa-siswinya dengan lebih baik.  
 
 # FLOWCHART 
+![image](https://github.com/PA-PBOxDBD/PA-PBO-DBD-KELOMPOK-24/assets/121924124/0fc262b3-9ab4-47e6-9e53-3a667da12011)
+
+
+
 # ERD
-![image](https://github.com/PA-PBOxDBD/PA-PBO-DBD-KELOMPOK-24/assets/121924124/a2fea8c5-40f7-4b08-83cb-7b0615290676)
-
-
-![image](https://github.com/PA-PBOxDBD/PA-PBO-DBD-KELOMPOK-24/assets/121924124/2ca91677-1e77-4be3-be26-e0665d770997)
-
-
+![image](https://github.com/PA-PBOxDBD/PA-PBO-DBD-KELOMPOK-24/assets/121924124/af6be1ea-d8d1-4043-bb27-4ed1b4bef17a)
+![image](https://github.com/PA-PBOxDBD/PA-PBO-DBD-KELOMPOK-24/assets/121924124/1dd3613a-4519-4881-9df3-7edc5970ec8f)
 
 # HIRARKI KELAS
 # SCREENSHOT CODINGAN
