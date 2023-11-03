@@ -16,7 +16,9 @@ Dengan adanya sistem basis data yang canggih, sekolah akan dapat memantau perkem
 
 # ERD
 ![image](https://github.com/PA-PBOxDBD/PA-PBO-DBD-KELOMPOK-24/assets/121924124/af6be1ea-d8d1-4043-bb27-4ed1b4bef17a)
-![image](https://github.com/PA-PBOxDBD/PA-PBO-DBD-KELOMPOK-24/assets/121924124/1dd3613a-4519-4881-9df3-7edc5970ec8f)
+
+![image](https://github.com/PA-PBOxDBD/PA-PBO-DBD-KELOMPOK-24/assets/121924124/782bc04f-d53e-4935-942f-a80a1053417c)
+
 
 # HIRARKI KELAS
 ![image](https://github.com/PA-PBOxDBD/PA-PBO-DBD-KELOMPOK-24/assets/121924124/83ea1334-8522-4989-b765-f6b975b3c8fc)
