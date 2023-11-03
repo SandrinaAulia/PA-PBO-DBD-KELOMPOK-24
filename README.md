@@ -23,7 +23,7 @@ SMAKESHA (Sekolah Menengah Kejuruan Star Harmoni) adalah sebuah institusi pendid
 - **Direktori "dist"**: Berisi file JAR yang dapat dijalankan bersama dengan library pihak ketiga yang diperlukan untuk menjalankan aplikasi.
 - **Direktori "nbproject"**: Berisi berkas konfigurasi proyek yang khusus untuk penggunaan NetBeans.
 
-### Selain itu, proyek ini mencakup berkas SQL yang digunakan untuk membuat struktur basis data yang diperlukan untuk menyimpan informasi siswa dan nilai siswa.
+**Selain itu, proyek ini mencakup berkas SQL yang digunakan untuk membuat struktur basis data yang diperlukan untuk menyimpan informasi siswa dan nilai siswa.**
 
 ## Cara Menjalankan Aplikasi
 
