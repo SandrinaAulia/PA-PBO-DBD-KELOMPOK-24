@@ -25,4 +25,13 @@ Dengan adanya sistem basis data yang canggih, sekolah akan dapat memantau perkem
 
 
 # SCREENSHOT CODINGAN
+1. Pola Desain ORM (WAJIB)
+2. Best Practice dari Final Variabel, Property, Method, Class (WAJIB)
+3. Inheritance/Pewarisan (OPSIONAL)
+4. Encapsulation = Getter & Setter (WAJIB tp sebaiknya pake)
+5. Polymorphism = Overriding & Overloading (OPSIONAL tp sebaiknya pake)
+6. Abstraction = Interface/Kelas Abstrak (Pilih Salah Satu Aja)
+7. Penerapan Property/Method bersifat Static (Ga termasuk property Static yang dikelas Database untuk nama host, nama database, username dan password)
+
+
 # OUTPUT 
