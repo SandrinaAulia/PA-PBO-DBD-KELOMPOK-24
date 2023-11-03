@@ -11,6 +11,13 @@ Dengan adanya sistem basis data yang canggih, sekolah akan dapat memantau perkem
 
 # FLOWCHART 
 # ERD
+![image](https://github.com/PA-PBOxDBD/PA-PBO-DBD-KELOMPOK-24/assets/121924124/a2fea8c5-40f7-4b08-83cb-7b0615290676)
+
+
+![image](https://github.com/PA-PBOxDBD/PA-PBO-DBD-KELOMPOK-24/assets/121924124/2ca91677-1e77-4be3-be26-e0665d770997)
+
+
+
 # HIRARKI KELAS
 # SCREENSHOT CODINGAN
 # OUTPUT 
