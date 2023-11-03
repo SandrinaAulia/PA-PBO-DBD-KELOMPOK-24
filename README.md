@@ -1,9 +1,7 @@
 # PENGELOLAAN DATA NILAI UJIAN SEKOLAH SISWA
 ## DESKRIPSI PROJECT
 
-SMAKESHA (Sekolah Menengah Kejuruan Star Harmoni) adalah sebuah institusi pendidikan yang berkomitmen untuk memberikan pendidikan berkualitas kepada para siswa. 
-
-Mereka menyadari bahwa mengelola data nilai siswa dengan cara manual mengalami banyak kendala, termasuk kesalahan pencatatan, kerumitan dalam mengakses data.
+SMAKESHA (Sekolah Menengah Kejuruan Star Harmoni) adalah sebuah institusi pendidikan yang berkomitmen untuk memberikan pendidikan berkualitas kepada para siswa. Mereka menyadari bahwa mengelola data nilai siswa dengan cara manual mengalami banyak kendala, termasuk kesalahan pencatatan, kerumitan dalam mengakses data.
 
 ### Fitur Inti
 
