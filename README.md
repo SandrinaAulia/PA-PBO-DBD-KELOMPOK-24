@@ -29,6 +29,22 @@ Cara Menjalankan Aplikasi
 Untuk menjalankan aplikasi ini, Anda dapat menggunakan file JAR yang telah disediakan dalam direktori "dist". Pastikan untuk menyertakan semua library yang ada di direktori "dist/lib" dalam classpath aplikasi.
 
 Aplikasi ini bertujuan mempermudah staf akademik dalam mengelola data siswa dan nilai siswa, memungkinkan mereka untuk mencatat, memperbarui data akademik dengan cepat, dan menghasilkan laporan nilai serta transkrip akademik secara efisien. Selain itu, mahasiswa juga dapat dengan mudah memantau perkembangan akademik mereka melalui aplikasi ini.
-# Flowchart dari aplikasi kalian, toolsnya terserah pake apa aja.
+
+# Flowchart
+
+![image](https://github.com/PA-PBOxDBD/PA-PBO-DBD-KELOMPOK-24/assets/121924124/efb2239d-605d-4694-8f15-262930894bfa)
+
+
 # ERD
-# Hirarki kelas dalam bentuk jpg atau png.
+
+ERD LOGICAL 
+![image](https://github.com/PA-PBOxDBD/PA-PBO-DBD-KELOMPOK-24/assets/121924124/0381c647-3043-4faf-a1be-96a854da83b0)
+
+
+ERD RELATIONAL
+![image](https://github.com/PA-PBOxDBD/PA-PBO-DBD-KELOMPOK-24/assets/121924124/d823d5ad-40b7-4194-b2d3-cb4108b01b37)
+
+
+
+# Hirarki kelas 
+![image](https://github.com/PA-PBOxDBD/PA-PBO-DBD-KELOMPOK-24/assets/121924124/b2d5f271-25bb-4203-b019-151a97eb0695)
